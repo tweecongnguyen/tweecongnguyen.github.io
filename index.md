@@ -18,5 +18,5 @@
 
 
 1. <a href="tweecongnguyen.github.io/bio">My bio</a> 
-1. <a href="link">My activities</a> 
-1. <a href="link">My pictures</a> 
+1. <a href="tweecongnguyen.github.io/topic">My activities</a> 
+1. <a href="tweecongnguyen.github.io/pictures">My pictures</a> 
