@@ -17,7 +17,7 @@ Here are some important years of my life:
  + Have been playing guitar for 8 yeas, basic skill in piano and have basic background in photography
 
 
-### ***Volunteer experience and Achievement***
+### ***Volunteer experiences and Achievements***
 1. Volunteer - Teaching Vietnamese for children at St. Anthony Church, Wichita, KS (<i>October.2013 - October.2015</i>)
 1. Photographer for Yearbook at Southeast High School, Wichita, KS (<i>October.2014 - May.2015</i>)
 1. Member of Youth Union and Class' deputy Secretary at Nguyen Thi Minh Khai High School, Hochiminh City, Vietnam (<i>October.2012 - October.2014</i>)
