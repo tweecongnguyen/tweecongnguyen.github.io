@@ -1,5 +1,8 @@
 ## **Thuy C. Nguyen**
 
+<br>
+<img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-0/cp0/e15/q65/p320x320/22310181_1589556334445559_6329029441830694058_n.jpg?efg=eyJpIjoiYiJ9&oh=50d34016f1575bf30d43ee223e135f50&oe=5A939FBA" alt="Bio">
+<br>
 
 ### ***Background*** 
 Here are some important years of my life:
