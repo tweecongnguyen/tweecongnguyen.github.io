@@ -11,9 +11,7 @@ Here are some of my works!
 <img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-0/cp0/e15/q65/p240x240/17523606_1412251038842757_5971348772508217509_n.jpg?efg=eyJpIjoiYiJ9&oh=ea3925de1f70a29177d4f75ecd5ab836&oe=5A9B7474" alt="Sea2">
 <img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-0/cp0/e15/q65/p240x240/22365273_1591542144246978_7261852661543863680_n.jpg?efg=eyJpIjoiYiJ9&oh=67ba1f2b5c6c32d3caaaaaa339e90f44&oe=5A9C8440" alt="Sea3">
 <p>Basketball</p>
-<img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-0/cp0/e15/q65/s320x320/936685_825899427477924_8350372865347493008_n.jpg?efg=eyJpIjoiYiJ9&oh=64252ace41df1e7a9afee18a70735e76&oe=5A8A042E" alt="Ball">
 <img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-0/cp0/e15/q65/p320x320/10929088_825901054144428_2930555058320301766_n.jpg?efg=eyJpIjoiYiJ9&oh=5594419bb4e6720831f300165f7b2f4e&oe=5A9A6903" alt="Ball1">
-<img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-0/cp0/e15/q65/s320x320/10923648_825901610811039_2173764320901619696_n.jpg?efg=eyJpIjoiYiJ9&oh=e1e38aec3bb5d1fe6cce2b7cc3030fa8&oe=5AA6E767" alt="Ball2">
 <img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-0/cp0/e15/q65/p320x320/10930853_825902890810911_8877551920385670904_n.jpg?efg=eyJpIjoiYiJ9&oh=722e0218502fcdaea244df55a0b32103&oe=5A9FE907" alt="Ball3">
 <p>Softball</p>
 <img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-0/cp0/e15/q65/s320x320/10298902_671992236201978_1483820563477615629_n.jpg?efg=eyJpIjoiYiJ9&oh=6000b9b4448013b56ec21e8c52ab602f&oe=5AA6122E" alt="Ball">
