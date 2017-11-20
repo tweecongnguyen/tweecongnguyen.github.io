@@ -11,10 +11,8 @@
 > <p>The most beautiful in the world is, of course, the world itself. <p> - Anna Quindlen </p></p> 
 
 <br>
-<br>
 
 ### Welcome to my adventures!
-<br>
 1. <a href="tweecongnguyen.github.io/bio">My bio</a> 
 1. <a href="tweecongnguyen.github.io/topic">My activities</a> 
 1. <a href="tweecongnguyen.github.io/pictures">My pictures</a> 
