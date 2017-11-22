@@ -14,7 +14,7 @@
 
 ### Welcome to my adventures!
 1. <a href="tweecongnguyen.github.io/bio">My bio = My resume</a> 
-1. <a href="tweecongnguyen.github.io/topic">My topic = My activities</a> 
+1. <a href="tweecongnguyen.github.io/topic">My topic = My activity</a> 
 1. <a href="tweecongnguyen.github.io/pictures">My pictures</a> 
 
 <br>
