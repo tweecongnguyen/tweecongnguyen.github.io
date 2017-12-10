@@ -26,7 +26,7 @@ And here are some of my works!
 
 <br>
 
-<a href="https://tweecongnguyen.github.io/home">Home</a> 
+<a href="https://tweecongnguyen.github.io/index">Home</a> 
 <br>
 <br>
 <address>
