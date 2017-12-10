@@ -1,9 +1,12 @@
 ## Thuy C. Nguyen
 ### Photography
 
-Photograly has always been my passion. I learned how to take pictures when I was 15 and started to practiced my skill in photoshop a year later. One of my favorite program for editing pictures is Adobe Photoshop CS6, vesion 13.0.1.1 due to its stability and extra functions other programs don't have. 
+Photography has always been my passion. I learned how to take pictures when I was 15 and started to practiced my skill in photoshop a year later. 
+One of my favorite program for editing pictures is Adobe Photoshop CS6, vesion 13.0.1.1 due to its stability and extra functions other programs don't have. 
 
 To learn how to use Adobe Photoshop CS6, <a href="https://www.youtube.com/watch?v=OjRqZiAgoHo">click here.</a>
+
+To learn more about photoshop manupulation effects, <a href="https://www.youtube.com/watch?v=uj7C_79yqPY">click here.</a>
 
 And here are some of my works!
 <br>
